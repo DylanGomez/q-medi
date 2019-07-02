@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c05e0c5.chunk.css",
+    "main.js": "/static/js/main.aae61036.chunk.js",
+    "main.js.map": "/static/js/main.aae61036.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.de9329e3.chunk.css": "/static/css/2.de9329e3.chunk.css",
+    "static/js/2.385db63f.chunk.js": "/static/js/2.385db63f.chunk.js",
+    "static/js/2.385db63f.chunk.js.map": "/static/js/2.385db63f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1c3af7a9149cac0a7a272a9f215c0b2c.js": "/precache-manifest.1c3af7a9149cac0a7a272a9f215c0b2c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de9329e3.chunk.css.map": "/static/css/2.de9329e3.chunk.css.map",
+    "static/css/main.2c05e0c5.chunk.css.map": "/static/css/main.2c05e0c5.chunk.css.map",
+    "static/media/main.css": "/static/media/flags@2x.7de34bf2.png",
+    "static/media/q-medi-logo.png": "/static/media/q-medi-logo.cd00886e.png"
+  }
+}
