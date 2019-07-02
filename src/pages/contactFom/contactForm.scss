@@ -1,0 +1,118 @@
+$break-small: 400px;
+$break-large: 1025px;
+
+.formArea {
+    padding: 48px 48px 48px 48px;
+    width: 40%;
+    text-align: center;
+    background-color: white; 
+    margin: auto;
+    position: relative;
+
+    @media screen and (max-width: $break-large) {
+      padding: 20px;
+      margin: 0;
+      width: 100vw;
+      top: 20px !important
+  }
+}
+
+.formAreaRight {
+    max-width: 396px;
+    margin: auto;
+}
+
+.textDivSend {
+  position: relative;
+  padding-top: 10vh;
+  text-align: center;
+
+  @media screen and (max-width: $break-large) {
+     padding-top: 10vh;
+     height: 10vh;
+  }
+
+}
+
+.area {
+    margin-top: 10px;
+}
+
+.form {
+    
+  padding: 0 16px;
+  max-width: 550px;
+  margin: 50px auto;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 36px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+.radio-buttons {
+    display: flex;
+    @media screen and (max-width: $break-large) {
+      display: flex;
+      margin-top: 10px;
+  }
+}
+
+.whoText {
+    font-weight: 700;
+    position: relative;
+    font-size: 24px;
+    line-height: 24px;
+    top: -25px;
+    padding-bottom: 20px;
+    color: #404348;
+    @media screen and (max-width: $break-large) {
+      font-size: 20px;
+  }
+}
+
+.telephoneInput {
+    size: 10px;
+    width: 100%;
+}
+
+.intl-tel-input {
+    width: 100%;
+    font-size: 20px;
+}
+input {
+    width: 100%;
+    padding: 5px;
+}
+.btn-success {
+    margin-top: 20px;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #d3d5d8;
+  transition: border-color ease-in-out .15s;
+  padding: 24px 16px;
+  font-size: 12px;
+  line-height: 24px;
+  border-radius: 4px;
+  background-clip: padding-box;
+  margin-bottom: 12px;
+}
+
+.form-control:hover {
+  border: 1px solid blue;
+}
+
+.form-control:focus {
+  border-color: blue;
+  box-shadow: inset 0 0px 0px blue, 0 0 0px blue;
+}
+

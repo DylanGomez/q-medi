@@ -1,0 +1,32 @@
+.logo {
+    width: 400px;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.upperDiv{
+    width: 100vw;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px; 
+}
+
+.lowerDiv{
+    width: 100vw;
+    display: inline-block;
+    text-align: center;
+}
+
+.footer{
+    position: relative;
+    clear: both;
+    height: 75px;
+}
+
+.footer-content{
+    background-color: white;
+    border: 1px solid black;
+    padding: 8px; 
+}
