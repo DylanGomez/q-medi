@@ -1,10 +1,11 @@
-import 'bootstrap/dist/css/bootstrap.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import Router from './constants/routes';
 import 'react-intl-tel-input/dist/main.css';
+import 'bootstrap/dist/css/bootstrap.css';
+
 
 ReactDOM.render(
     <Router>
