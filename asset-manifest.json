@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/q-medi/static/css/main.d19a209f.chunk.css",
+    "main.css": "/q-medi/static/css/main.497eae3a.chunk.css",
     "main.js": "/q-medi/static/js/main.874049b0.chunk.js",
     "main.js.map": "/q-medi/static/js/main.874049b0.chunk.js.map",
     "runtime~main.js": "/q-medi/static/js/runtime~main.cafa678f.js",
@@ -9,10 +9,10 @@
     "static/js/2.385db63f.chunk.js": "/q-medi/static/js/2.385db63f.chunk.js",
     "static/js/2.385db63f.chunk.js.map": "/q-medi/static/js/2.385db63f.chunk.js.map",
     "index.html": "/q-medi/index.html",
-    "precache-manifest.f74711f64ca844779c0cd88fec904887.js": "/q-medi/precache-manifest.f74711f64ca844779c0cd88fec904887.js",
+    "precache-manifest.56eece28d2f536d42d75dff49b11dfba.js": "/q-medi/precache-manifest.56eece28d2f536d42d75dff49b11dfba.js",
     "service-worker.js": "/q-medi/service-worker.js",
     "static/css/2.1aa18d02.chunk.css.map": "/q-medi/static/css/2.1aa18d02.chunk.css.map",
-    "static/css/main.d19a209f.chunk.css.map": "/q-medi/static/css/main.d19a209f.chunk.css.map",
+    "static/css/main.497eae3a.chunk.css.map": "/q-medi/static/css/main.497eae3a.chunk.css.map",
     "static/media/main.css": "/q-medi/static/media/flags@2x.7de34bf2.png",
     "static/media/q-medi-logo.png": "/q-medi/static/media/q-medi-logo.cd00886e.png"
   }
