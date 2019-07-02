@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ef073cbdeff3b6607effd3010cd3ab2",
+    "revision": "6ad2625482d6212620d51acd038aad9a",
     "url": "/q-medi/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/q-medi/static/css/2.1aa18d02.chunk.css"
   },
   {
-    "revision": "34809dda61b54b6e7180",
-    "url": "/q-medi/static/css/main.2c05e0c5.chunk.css"
+    "revision": "120db297f799640cfe2a",
+    "url": "/q-medi/static/css/main.2010ec9a.chunk.css"
   },
   {
     "revision": "fd9cb836a4378d32d8fd",
     "url": "/q-medi/static/js/2.385db63f.chunk.js"
   },
   {
-    "revision": "34809dda61b54b6e7180",
+    "revision": "120db297f799640cfe2a",
     "url": "/q-medi/static/js/main.874049b0.chunk.js"
   },
   {
